@@ -8,5 +8,4 @@ module.exports = {
     host: 'localhost',
     dialect: 'mysql',
   },
-  // Add other environments if needed (e.g., production, test)
 };
